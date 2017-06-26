@@ -1,3 +1,4 @@
+
 # 1.跳转供应链
 ## 1.1API名称
 > 方法名:ypt.open.user.gotoScmpPoint
